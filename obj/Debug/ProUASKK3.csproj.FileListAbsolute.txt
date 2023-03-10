@@ -1,0 +1,12 @@
+C:\Users\hafiz\source\repos\ProUASKK3\ProUASKK3\bin\Debug\mydb.accdb
+C:\Users\hafiz\source\repos\ProUASKK3\ProUASKK3\bin\Debug\ProUASKK3.exe.config
+C:\Users\hafiz\source\repos\ProUASKK3\ProUASKK3\bin\Debug\ProUASKK3.exe
+C:\Users\hafiz\source\repos\ProUASKK3\ProUASKK3\bin\Debug\ProUASKK3.pdb
+C:\Users\hafiz\source\repos\ProUASKK3\ProUASKK3\obj\Debug\ProUASKK3.csproj.AssemblyReference.cache
+C:\Users\hafiz\source\repos\ProUASKK3\ProUASKK3\obj\Debug\ProUASKK3.csproj.SuggestedBindingRedirects.cache
+C:\Users\hafiz\source\repos\ProUASKK3\ProUASKK3\obj\Debug\ProUASKK3.Form1.resources
+C:\Users\hafiz\source\repos\ProUASKK3\ProUASKK3\obj\Debug\ProUASKK3.Properties.Resources.resources
+C:\Users\hafiz\source\repos\ProUASKK3\ProUASKK3\obj\Debug\ProUASKK3.csproj.GenerateResource.cache
+C:\Users\hafiz\source\repos\ProUASKK3\ProUASKK3\obj\Debug\ProUASKK3.csproj.CoreCompileInputs.cache
+C:\Users\hafiz\source\repos\ProUASKK3\ProUASKK3\obj\Debug\ProUASKK3.exe
+C:\Users\hafiz\source\repos\ProUASKK3\ProUASKK3\obj\Debug\ProUASKK3.pdb
